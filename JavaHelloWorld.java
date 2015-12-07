@@ -4,5 +4,6 @@ public class JavaHelloWorld
 	{
 		System.out.println("Inside JavaHelloWorld");
 		System.out.println("Hello Java");
+		System.out.println("Hello Test");
 	}
 } 
